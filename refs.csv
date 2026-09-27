@@ -1,0 +1,232 @@
+﻿№,название,источник,карточка referest,сайт/страница,механика,стоп-признаки,тип брака,баллы рубрики /12,одна студия /5,идея интересности,контрольный вопрос
+1,Intencv — «Same experience. Different outcome.»,referest,https://referest.ru/screens/intencv-2,https://www.intencv.com/,Шторка,нет,не брак,9,4.5,"шторка связана с метрикой: при перетаскивании счёт меняется 48% → 78%, бейдж Needs work → Ready to apply","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: капс-eyebrow BEFORE & AFTER, капс-надстрочники над половинами, кадр 16 px, контурные чипы «Missing in the original», тёмная карточка-метрика рядом со светлым кадром"
+2,Operator — «This is your business before and after AI Agents»,интернет,,https://oma-operator.framer.website/,Шторка,нет,не брак,10,5,"шторка по живому дашборду «вручную ↔ с агентом», под ней метрики тем же бенто, что на /services/mvp-design","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-чип, H2 слева и абзац справа по верхнему краю, кадр 16 px, склеенный ряд из трёх метрик с иконками в плашках и волосками"
+3,Mazher — «Transforming outdated websites into modern Framer experiences»,интернет,,https://mazher.framer.website/,Шторка,нет,не брак,8,4,сравниваются настоящие сайты клиента до и после — ровно сценарий Product Revamp,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: тёмная секция, eyebrow-бейдж, H2 во второй колонке, капс-подписи Before / After над кадром, проект и год под кадром"
+4,Mstudio — кейс Arrah,интернет,,https://impartial-others-914178.framer.app/,Шторка,нет,не брак,8,4,два измерения сравнения сразу: шторка до/после и переключатель устройства,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: сегмент-пилюля Desktop / Mobile, подпись «студия × клиент — год», кадр в рамке браузера со скруглением"
+5,Halo Lab — Website Redesign,интернет,,https://www.halo-lab.com/services/all/website-redesign,Шторка,нет,не брак,9,4,карусель из нескольких редизайнов с полосками прогресса — много кейсов в одном блоке,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: пилюли Before / After в углах, кадр 16 px, прогресс-вкладки кейсов, круглые кнопки-стрелки, CTA-плашка с иконкой в кружке"
+6,INK PPT — «What difference will I actually see?»,интернет,,https://www.inkppt.com/,Шторка,нет,не брак,8,4,"самая сдержанная рамка вокруг шторки: ничего лишнего, всё держится на шапке и счётчике","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: H2 слева, приглушённое пояснение справа по верхнему краю, пилюли Before / After, счётчик 1/4 со стрелками"
+7,"Loupe — «Every frame, twice.»",интернет,,https://loup.framer.website/,Шторка,нет,не брак,8,4,"сравнивается каркас и финальный рендер — блок показывает процесс, а не только результат","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: пилюли WIREFRAME / FINAL в углах кадра, круглая ручка, кадр 16 px во всю ширину контейнера, eyebrow «(03) Process»"
+8,Before us / After us,интернет · концепт,,https://dribbble.com/shots/27731233-Before-After-slider,Шторка,нет,не брак,9,4,"«до» приглушено и серое, «после» цветное; чипы manual error 9.1 hrs → synced 1.0 hrs и итог 48+/h → 7/h","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: пилюли Before us / After us, строки-плашки с иконками, чипы-метки состояния в строках"
+9,"VELUX — «Se, hvordan naturligt lys forvandler et rum»",referest,https://referest.ru/screens/velux-4,https://www.velux.dk/,Переключатель и прокрутка,нет,не брак,8,4,"вместо шторки — тумблер, а примеры листаются каруселью","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: H2 среднего веса строчными слева, тумблер FØR / EFTER справа над кадром, кадр 16 px, круглая кнопка-стрелка к следующему примеру"
+10,Tessvik — Case spotlight,интернет,,https://poised-mercury-033070.framer.app/,Переключатель и прокрутка,нет,не брак,9,4,"смена «до/после» при прокрутке: история рассказывается шагами, кадр и цифры меняются вместе","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: надстрочники «01 · The problem → 03 · The result», прогресс-полоски шагов, кадр в рамке браузера, метрика 3.1% → 4.6% с графиком"
+11,New Genre — «Our process»,referest,https://referest.ru/screens/new-genre-3,https://newgenre.studio/,Лента итераций,нет,не брак,8,4,"один объект проходит стадии Think → Create → Build → Scale, лента листается перетаскиванием","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: карточки со скруглением: заголовок и приглушённый текст сверху, пустое поле, объект прижат к низу — как карточки What’s included"
+12,"Mesa — «The same 2:14 a.m. page, before and after»",интернет,,https://mesaops.framer.website/,Лента итераций,нет,не брак,9,4.5,"хроника одного и того же случая в две колонки: 77 minutes приглушено, 1 min 55 s ярко","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: строки-волоски «время / событие» как пронумерованные списки zeeframes, H2 строчными, итоговая цифра под каждой колонкой"
+13,Invesp — «Drag to see what we changed.»,интернет,,https://www.invespcro.com/,Карточка кейса с метриками,нет,не брак,10,4,"шторка, метрика и лента остальных кейсов в одном блоке — готовая структура для Product Revamp","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow «§ Before & After», проект и крупная метрика +83.77% с подписью, строка-заметка, лента миниатюр кейсов с метриками"
+14,Design Buddy — Before / After,интернет · кадр из галереи,,https://onepagelove.com/design-buddy,Карточка кейса с метриками,нет,не брак,9,4,"редизайн в цифрах: оценка 3.5 → 4.5 по layout, colors, typography, accessibility","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: две склеенные карточки одного экрана, подписи Before / After с оценкой в кольце, карточка разбора справа"
+15,Zenon — «Raw clips in. Views out.»,интернет,,https://zenon.framer.website/,Карточка кейса с метриками,нет,не брак,10,4.5,"три карточки: кейс, кривая «до» пунктиром против «после», итоговая цифра","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow, H2 слева и абзац справа, склеенные карточки в общем контейнере, крупная 81%, полосы BEFORE 38% / AFTER 81%"
+16,Stackwise — «Real brands with real answer share attached.»,интернет,,https://stackwise.framer.ai/,Карточка кейса с метриками,нет,не брак,9,4,"кейсы переключаются чипами, у каждого пара «до/после» и одна метрика","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: табы-чипы 01–04, бенто из фото кейса, Challenge / Before, Impact / After с акцентным «%», отзыв"
+17,Wealthora — «Same people. Different ending.»,интернет,,https://confident-skills-748945.framer.app/,Карточка кейса с метриками,нет,не брак,8,4,"внутри каждой карточки график BEFORE против WITH A PLAN, кейсы листаются каруселью","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: карточки CASE 01–04, пронумерованные строки, итог акцентом, пилюля READ THE CASE ↗"
+18,Depict — «Built for brands that refuse to blend in.»,referest · снят с сайта,https://referest.ru/screens/depict-3,https://depict.ai/,Два кадра рядом,нет,не брак,8,4,круглая акцентная кнопка на стыке кадров связывает «до» и «после»; сравнивается реальная витрина магазина,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: H2 с приглушённой второй частью, абзац слева и ссылка со стрелкой справа, два кадра витрины 12 px, маленькие пилюли BEFORE / AFTER"
+19,Kyoso — «No more platform hopping»,интернет · кадр из галереи,,https://onepagelove.com/kyoso,Два кадра рядом,нет,не брак,9,4.5,цепочка из шести инструментов превращается в один центр — схема вместо скриншота,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow «Comparison», H2 среднего веса, две плоские карточки 20 px без теней, подписи сверху, много воздуха"
+20,"Educate U — «The same task, seen two ways»",интернет · концепт,,https://dribbble.com/shots/27724189-Before-After-a-5-step-wizard-becomes-one-canvas,Два кадра рядом,нет,не брак,9,4,подписи «Step 5 of 5 — one question type at a time» → «One canvas — every question» объясняют редизайн одной строкой,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow «06 — Before & After», H2 строчными, маленькие бейджи BEFORE / AFTER, подпись-итог под каждым кадром"
+21,Aiveloft — «Replace operational drag…»,интернет,,https://aiveloft-v2.framer.website/,Два кадра рядом,нет,не брак,9,4,"вкладки снизу меняют сценарий, и обе колонки «до/после» перестраиваются","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow, H2 слева и абзац справа, пронумерованные строки, итоговая плашка, вкладки 01–04 с полоской активной"
+22,Resync Bio — Acceleration,интернет · кадр из галереи,,https://onepagelove.com/resync-bio,Два кадра рядом,нет,не брак,8,4,пары «было/стало» построчно рядом с визуалом продукта,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: карточка-бенто, маленькие пилюли BEFORE / AFTER, «до» серое и приглушённое, «после» чётче, справа продуктовый визуал"
+23,Syntiq — «Real Results from Structured AI Systems»,интернет,,https://syntiq.framer.website/,Бенто из пар,нет,не брак,9,4,главная ячейка Before / After: разбросанные серые чипы → собранные чёрные,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-чип, H2 с приглушённой частью, бенто в общем контейнере, ячейки-метрики, пунктирные разделители"
+24,ClipCut — «From raw clips to ready-to-post»,интернет,,https://clipcut.framer.ai/,Бенто из пар,нет,не брак,9,4,мини-шторка Before / After живёт внутри карточки процесса,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-пилюля, центрованный H2, три карточки-шага с тонкой рамкой, заголовок и текст прижаты к низу карточки"
+25,Zig.ai — «You didn’t get into sales to do data entry»,referest,https://referest.ru/screens/zig-6,https://zig.ai/,Сравнение подходов,нет,не брак,9,4.5,"«до» написано приглушённым чёрным, «после» — акцентом: контраст одним цветом текста","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow с иконкой, H2 с акцентными словами, пилюли-метки Before / After, строки-волоски, ✕ / ✓ в кружках"
+26,Outseta — «Quit context switching»,referest,https://referest.ru/screens/outseta-6,https://www.outseta.com/,Сравнение подходов,нет,не брак,8,4,картинка вместо слов: семь иконок инструментов → одна,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: две плоские карточки 16 px, волосок с чёрными пилюлями Before / After, списки ✕ / ✓"
+27,Valley — «The way Sales should’ve been done»,интернет · кадр из галереи,,https://saaspo.com/sections/valley-compare-section,Сравнение подходов,нет,не брак,8,4,вся разница состояний держится на рамке и одной иконке ✱,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-чип, H2 строчными, карточки 1 px с линейными иконками, акцентная рамка у «With»"
+28,Baton — «Every agent demos well.»,интернет,,https://baton.framer.website/,Сравнение подходов,нет,не брак,8,4,повторяет логику FAQ zeeframes: активная карточка — с акцентной рамкой,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-чип, карточка Without серая с пунктиром, With белая с акцентной рамкой, ✕ / ✓ в квадратах 32 px, строки-волоски"
+29,FunnelForge — «What changes once you have a funnel»,интернет,,https://funnelforge.framer.website/,Сравнение подходов,нет,не брак,9,4,"после пары карточек — строка метрик, как статистика zeeframes с акцентным знаком","Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: eyebrow-пилюля «Before / After», капс-надстрочники, ряд из трёх метрик 2× / 40+ / 30D"
+30,NoveQ — «What changes when you stop guessing»,интернет,,https://noveq.framer.website/,Сравнение подходов,нет,не брак,7,4,узкие вертикальные вкладки 3.2x ROI / 1.3x ROI по краям — раскрываются как аккордеон,"Не бьюти, не ремонт, не голый плагин, не инфографика, не чужой бренд, не за цвет, снимок целый. По формам: карточки 16 px с тонкой рамкой, надстрочники After / Before, лента чипов-метрик"
+запас,Clarity Business Travel — Without / With,referest,https://referest.ru/screens/claritybusinesstravel,https://www.claritybusinesstravel.com/,запас,,,8,4,,сравнение подходов; не вошло из-за лимита в 6
+запас,Август Дуга — Чертёж → Реализация,referest,https://referest.ru/screens/avgustduga-ru-1,https://avgustduga.ru,запас,,,7,3.5,,"номера в вырезе кадра, но по сути аккуратная пара фото"
+запас,Comparison Flow — Without / With automation,интернет,,https://comparisonflow.framer.website/,запас,,,8,3.5,,"пошаговая анимация, «240× faster»; серифный H2"
+запас,FintechX — «Smarter decisions start with clear data»,интернет,,https://fintechx-wbs.framer.website/,запас,,,8,3.5,,"переключение ручкой; ручка хромированная, скевоморфная"
+запас,Loamra — «Estimates are guesses. We replace them.»,интернет,,https://blissful-professionals-903260.framer.app/,запас,,,9,3.5,,шторка по графику; много моношрифта
+запас,interfaces.dev — «What makes an interface feel great?»,интернет,,https://interfaces.dev/,запас,,,8,3.5,,живые пары ✕ / ✓ с ползунком; моношрифт в чипах
+запас,Spiralyze — landing page optimization,интернет,,https://www.spiralyze.com/landing-page-optimization-agency,запас,,,7,3.5,,бейджи Before / After в углах; рамка с тенью
+запас,Makeover Studio — First makeover quality,интернет · кадр из галереи,,https://onepagelove.com/makeover-studio,запас,,,7,3.5,,сегмент-пилюля Before / After под кадром; блок маленький
+запас,FERMAT — «You have more tools than ever…»,интернет,,https://www.fermatcommerce.com,запас,,,7,3.5,,"пилюли-радио Before / With; серифный H2, объект — схема"
+запас,Surinder Thakur — Puffy redesign,referest · снят с сайта,https://referest.ru/screens/surinder,https://www.surinder.design/work/puffy,запас,,,7,3.5,,"пилюли OLD / NEW DESIGN, стеклянная ручка; тяжёлый центрованный H2"
+
+"— все просмотренные кандидаты (id, источник, механика, вердикт, студия, рубрика, заметка) —"
+adaptyx-6,referest,approaches,reserve,3,6,"Traditional vs Our approach, метрики 50x/10000x; бренд-иллюстрации 3D/неон (брак 5 частично)"
+biz-pluscards-ru-4,referest,approaches,no,2,3,"отзыв с колонками Без/Вместе, 3D-клипарт, тени"
+avgustduga-ru-1,referest,side-by-side,maybe,3.5,7,"Чертёж→Реализация, скругл. кадры, номера в вырезе, подписи с иконкой в плашке; риск «пара фото аккуратнее»"
+biuro-28-1,referest,-,no,-,-,"hero, не сравнение"
+begg,referest,-,no,-,-,не сравнение
+amevalue-com-2,referest,-,no,-,-,результаты без «до»
+arrex,referest,-,no,-,-,"задача/решение списком, не до/после"
+artificial-societies-6,referest,-,no,-,-,"бенчмарк против конкурентов, не до/после"
+intencv-2,referest,slider,YES,4.5,9,"шторка с кастомной ручкой, eyebrow BEFORE & AFTER, капс-надстрочники над половинами, карточка метрики 73% +31%, чипы «missing»; минус — серифный H2"
+intencv-4,referest,-,no,-,-,hero
+formio,referest,case-metrics,no,-,-,кейс с метриками без состояния «до»
+formio-1,referest,approaches,reserve,3,6,"проблема→решение бенто, стеклянный 3D-объект, кричащий розовый CTA-блок"
+claritybusinesstravel,referest,approaches,maybe,4,8,"Without/With: две карточки 1px, акцентная рамка у «with», ×/✓, ряд крупных метрик с подписью; жёлтый не в счёт — формы совпадают"
+ever-6,referest,slider?,check,-,-,"овальный кадр, половина пустая/обставленная — проверить вживую"
+growth-community-ru-2,referest,-,no,-,-,воронки-инфографика (брак 4)
+gozhii-ru,referest,-,no,-,-,портфолио
+kristinamiller-ru-1,referest,toggle,no,1,2,"ч/б↔цвет по клику, фэшн-портфолио, декоративная антиква (брак 5)"
+digidop-4,referest,-,no,-,-,кейс x70 без «до»
+dsgn-group-2,referest,-,no,-,-,процесс
+function-7,referest,approaches,reserve,3,6,"таблица Function vs Standard, выделенная колонка-пилюля; курсивная антиква"
+get-blue-1,referest,approaches,reserve,3,6,"таблица vs конкуренты на тёмном, выделенная колонка"
+kopa-padel,referest,-,no,-,-,hero
+fourmula-1,referest,-,no,-,-,hero
+laundryman-2,referest,-,no,-,-,"моношрифт, не сравнение"
+fw:frameraudit,web,slider,no,3,6,"Lighthouse-кольца в шторке, моношрифт в подзаголовке (dev-tool)"
+fw:operator,web,slider,YES,5,10,"eyebrow-чип, H2 слева + абзац справа, шторка с круглой ручкой над дашбордом на фото-подложке, склеенный ряд из 3 метрик с иконками и волосками"
+fw:mazher,web,slider,YES,4,8,"тёмная секция, eyebrow-бейдж Before & After, H2 во 2-й колонке, подписи Before/After над кадром, подпись проекта/год снизу"
+fw:storyline,web,slider,no,2.5,4,голая шторка в кейсе
+fw:melissa-airmatrix,web,slider,reserve,3,6,"пилюли-бейджи BEFORE/AFTER на кадре, ручка-стекло; вокруг ничего"
+fw:nuance-flowpay,web,slider,reserve,3,7,"шторка + аннотации итераций, таблица before/after; огромные подписи поверх, плотно"
+fw:before-after-case,web,slider,YES,4,8,"шторка в рамке браузера, переключатель-пилюля Desktop/Mobile, подпись проекта «Mstudio / Arrah × Client — 2026»"
+fw:comparison-flow,web,approaches,maybe,3.5,8,"две карточки 1px с капс-метками WITHOUT/WITH и чипами ~6h/~90s, пошаговая анимация, «vs», 240× faster; серифный H2"
+fw:ba-scanner,web,-,no,-,-,3D-рендер
+fw:saasleek,web,approaches,no,2.5,5,"смайлики-иконки, тень"
+fw:superfast,web,table,reserve,3,6,"таблица old way / new way, пунктирная техническая рамка"
+fw:landio,web,approaches,no,3,5,"курсивная антиква, типовые ✓/✕"
+fw:noveq,web,approaches,maybe,4,7,"карточки After/Before с вертикальными вкладками 3.2x ROI / 1.3x ROI (аккордеон), капс-надстрочники; заголовок не в кадре — переснять"
+fw:clipcut,web,bento-slider,maybe,4,9,"мини-шторка внутри карточки бенто «процесс»; кастомная ручка, Before/After, чипы; в кадре выделение текста — переснять"
+fw:disco-nightday,web,-,no,1.5,3,"3D-иллюстрация, градиент (брак 5)"
+fw:jazzybui,web,side-by-side,no,2,3,пара скринов с подписями
+fw:israpps,web,side-by-side,no,2,3,пара телефонов
+fw:jstevens,web,toggle,no,2,2,"hover, без дизайна"
+fw:shivani-box,web,-,no,2,3,мелко
+fw:blom-klaro,web,-,no,2,2,мобильные скрины
+fw:refi-portfolio,web,-,no,2,3,рукописный шрифт
+fw:roasthero,web,side-by-side,no,2.5,4,пара рамок
+ag:halo-lab,web,slider,YES,4,9,"шторка в скруглённом кадре 16px, пилюли Before/After, кастомная ручка, прогресс-вкладки + круглые стрелки, CTA-плашка с иконкой в кружке; градиентный капс-заголовок убрать"
+ag:slidesigma,web,slider,reserve,3.5,7,"eyebrow-чип, H2 слева + чек-лист, шторка с пилюлями OLD/NEW DESIGN; стоковое фото, градиент в слове"
+ag:macaly,web,slider,no,3,6,"дубль шаблона redesignr, серифные подписи"
+ag:redesignr,web,slider,reserve,3.5,7,"eyebrow-чип, центр. H2, капс-надстрочники BEFORE/AFTER + серифные «Outdated & Slow / Modern & Fast»"
+ag:zag,web,slider,reserve,3.5,6,"чипы-фильтры клиентов над шторкой (как чипы /work), но внутри стоковый juxtapose"
+ag:spiralyze,web,slider,maybe,3.5,7,"eyebrow+H2 слева, шторка с тёмными бейджами Before/After в углах, подпись-итог; рамка с тенью"
+ag:thinkpod,web,-,no,2,3,пара планшетов
+ag:bigapplemedia,web,-,no,1.5,2,шаблон
+ag:makdigital,web,-,no,1.5,2,плашки BEFORE/AFTER
+ag:domaindesign,web,-,no,1.5,2,мокап-картинка
+ag:khaggard,web,table,no,2,2,таблица логотипов
+ag:eleken,web,toggle,reserve,3.5,6,круглый курсор «Click to see Before/After» над кадром в рамке браузера; вокруг ничего
+ag:itseeze,web,-,no,2,3,оранжевые плашки
+ag:digitalsilk,web,-,no,2,3,3D-карусель
+ag:sobakapavlova,web,side-by-side,reserve,3,6,"«было — стало», номера-аннотации, круглая кнопка-стрелка между состояниями; пиксельный бренд клиента"
+ag:invesp,web,case-metrics,YES,4,10,"eyebrow «§ BEFORE & AFTER», H2, проект + крупная метрика +83.77% с подписью, шторка с метками ORIGINAL/WINNING, заметка, прогресс, лента миниатюр кейсов с метриками"
+ag:overpass,web,bento-pairs,maybe,4,7,"бенто из 3 карточек, в первой «до/после» наложением окон; сравнение лишь в одной карточке"
+ag:inkppt,web,slider,YES,4,8,"H2 слева + абзац справа, шторка с пилюлями Before/After, счётчик 1/4 со стрелками"
+ag:24slides,web,overlap,reserve,3,5,наложение карточек after поверх before с бейджами
+ag:builderio,web,toggle,reserve,3,7,"тумблер Without/with Builder Agent, строки с иконками в плашке и ползунками; моношрифт"
+ag:locofy,web,-,no,2,3,"синий градиент, бренд"
+ag:lollypop,web,-,no,2,3,картинка из статьи
+gal:outseta,web,side-by-side,dup,4,8,"две плоские карточки 16px (много иконок → одна), волосок с чёрными пилюлями Before/After, списки ✕/✓; H2 жирный дисплейный"
+gal:gocertify,web,side-by-side,maybe,3.5,7,"PROBLEM/SOLUTION капс-eyebrow, «разбитый» vs чистый UI-виджет, ряд метрик клиентов; стекло на виджете"
+gal:jace,web,approaches,reserve,3,6,"4 инструмента vs один, итог $93→$25; серифный H2, тени"
+gal:beam-content,web,toggle,no,1.5,3,"рукописные подписи, антиква (брак 5)"
+gal:partnerprop,web,slider,no,2,4,"3D-иконки, чужой бренд"
+gal:billow,web,-,no,-,-,сравнения почти нет
+gal:interfaces,web,side-by-side,maybe,3.5,8,"пары ✕/✓ деталей интерфейса в тонкой рамке, живые контролы (ползунок ширины, «Show values»), круглые стрелки; моно в чипах"
+gal:razorpay,web,toggle,no,2,4,3D-маскот (брак 5)
+gal:capetown,web,slider,no,2.5,5,"спутниковые снимки, антиква, моно-подписи"
+gal:vidflow,web,scroll,reserve,3.5,6,"смена Before•/After• при прокрутке, контурная рамка 16px, пилюля CTA; бедно"
+gal:rally,web,approaches,reserve,3.5,6,"Without/With пилюли, фото-кипа бумаг vs карточки уведомлений"
+gal:valley,web,approaches,maybe,4,8,"eyebrow-чип, H2 среднего веса строчными, ✕ Without / ✱ With, две карточки 1px с линейными иконками, акцентная рамка «with»"
+gal:lightdash,web,table,reserve,3.5,6,"таблица Traditional/Agentic, подсветка колонки"
+gal:pace,web,table,reserve,3,6,"OLD vs NEW, серифный H2, строки-волоски"
+gal:viewport,web,slider,reserve,3.5,6,"eyebrow-чип, центр. H2, шторка с белыми пилюлями Before/After; градиентная кнопка с тенью"
+gal:design-buddy,web,case-metrics,YES,4,9,две карточки Before/After одного экрана с кольцами-оценками 3.5→4.5 по критериям + разбор; как раз про редизайн
+gal:makeover-studio,web,toggle,maybe,3.5,7,карточка-бенто с кадром и сегментом-пилюлей Before/After под ним
+gal:kyoso,web,side-by-side,YES,4.5,9,"eyebrow «Comparison», H2 среднего веса строчными, две плоские карточки 20px Before/After со схемами (цепочка → хаб), много воздуха"
+gal:practical-ui,web,side-by-side,reserve,3.5,6,две карточки ✕/✓ одного UI-блока
+gal:resync-bio,web,side-by-side,maybe,4,8,"бенто-карточка: заголовок, пилюли BEFORE/AFTER, приглушённые плашки «до» vs яркие «после», справа визуал"
+gal:playbook,web,approaches,reserve,3.5,6,"две колонки Before/After с шапками-плашками, нумерация, акцентная рамка"
+drb:before-us-after-us,concept,slider,YES,4,9,"тёмная шторка с пилюлями Before us/After us, список инструментов с чипами «manual error 9.1 hrs» → «synced 1.0 hrs», метрика 48+/h → 7/h"
+drb:appivo,concept,-,no,1.5,2,"клипарт, градиент"
+drb:wiley-club,concept,slider,no,3,4,"ч/б фото → сайт в планшете, декоративный фон"
+drb:microin,concept,approaches,reserve,3.5,6,кучи чипов «наш способ / без нас»
+drb:uporder,concept,-,no,2,3,рукописное
+drb:educateu,concept,side-by-side,YES,4,9,"eyebrow «06 — BEFORE & AFTER», H2 строчными, бейджи BEFORE/AFTER, два кадра UI, подписи-итоги под кадрами"
+drb:slate-co,concept,approaches,no,3,5,тень на карточке
+drb:coacha,concept,approaches,no,3,5,типовые карточки
+drb:gfacility,concept,side-by-side,reserve,3.5,7,как outseta: карточки с пилюлями Before/After на нижней кромке; тени
+drb:digitarp,concept,-,no,2,2,не до/после
+zig-6,referest,side-by-side,YES,4.5,9,"eyebrow с иконкой, H2 среднего веса с акцентными словами, пилюли-метки Before/After (тёмная/акцентная), строки-волоски ✕/✓, «до» приглушено — «после» в акценте"
+zig-2,referest,timeline,reserve,3.5,6,Month 1 / Month 3 — две карточки состояния
+outseta-6,referest,side-by-side,YES,4,8,"= gal:outseta, источник referest"
+vivanti-1,referest,-,no,-,-,кейс без визуального «до»
+school-xyz-com-cgi-khudozhnik-po-personazham-1,referest,slider,reserve,3.5,7,"шторка скульпт → персонаж, пилюли «После первого урока / После обучения», подпись; объект заменим"
+visify-4,referest,-,no,-,-,коллажи
+vnutri-pro-1,referest,toggle,reserve,3,6,"тумблер «Сейчас ⟷ После курса» прямо в заголовке; фото-фон, звёздочки"
+portpm-3,referest,-,no,-,-,табы сценариев
+matedesign-co-1,referest,approaches,no,3,5,фиолетовая таблица vs штатный
+piplanning,referest,-,no,-,-,vs конкуренты
+runtime-radar-3,referest,-,no,-,-,"3D, не до/после"
+voxr-ai-1,referest,-,no,-,-,кейс без «до»
+summator-me-3,referest,case-metrics,no,3,5,полоски До 4 / После 37 Мбит/с в отзыве; фото
+new-genre-3,referest,timeline,maybe,4,8,"лента итераций: один цветок по стадиям Think/Create/Build/Scale, карточки с заголовком сверху и приглушённым текстом, drag"
+onetech-coatings-1,referest,-,no,-,-,"два направления, не до/после"
+shopot-ai-5,referest,-,no,-,-,метрики
+kontrapunkt-1,referest,-,no,-,-,"варианты логотипа, не до/после"
+pudding-studio,referest,-,no,-,-,"кейс-сторителлинг, иллюстрации"
+studiia-luch-1,referest,timeline,reserve,3.5,7,"кейс: «Проектирование» (прототип) → «Дизайн» (готовый лендинг), растянут на всю страницу"
+sanechek-xyz-swiss,referest,-,no,-,-,учебный лонгрид
+icounter-1,referest,approaches,no,2.5,5,"неон, моно (dev-tool)"
+groth-studio-3,referest,pair,reserve,3.5,6,"строки проектов: линейный изометрический эскиз ↔ фото, пунктирные разделители"
+wellington-millwork,referest,slider,reserve,3,6,"шторка эскиз ↔ фото кухни, кастомная ручка; тонкий капс люкс-шаблона"
+velux-4,referest,toggle,YES,4,8,"H2 среднего веса слева, тумблер-пилюля FØR/EFTER справа, крупный кадр комнаты 16px — переснять вживую"
+craft,referest,slider,reserve,3.5,7,"шторка прямо в hero по кадру документа (сырой ↔ оформленный), фиолетовая ручка; градиентный фон, жирный H1"
+bendingspoons-4,referest,case-metrics,reserve,3.5,6,"карусель скриншотов в цветных карточках, метка BEFORE ACQUISITION мелькает на одном кадре; бенто карточек продуктов с меткой BEFORE ACQUISITION поверх скриншотов, списки улучшений, пилюля «See all improvements ↗» — проверить вживую"
+cleanup-pictures,referest,overlap,reserve,3,5,наложение Before/After двух фото; декоративный дисплейный шрифт
+craftwork,referest,-,no,-,-,иллюстрации
+vendredi-society,referest,-,no,-,-,hero
+st2:oddit,web,side-by-side,reserve,3.5,7,"пары Before Oddit/After Oddit с пилюлями на кромке кадра, контурные плашки-аргументы по бокам с «&»; синий однотон, декоративные черточки"
+st2:purrweb-kem,web,slider,no,3,5,шторка вайрфрейм ↔ UI на телефонах; декоративный шрифт заголовка
+st2:duck-design,web,slider,no,3,5,"эмодзи в H2, градиентное пятно"
+st2:phenomenon-wisdom,web,slider,no,3,5,"шторка в кейсе, шапки нет"
+st2:procreator-nvest,web,slider,reserve,3,6,огромные Before/After над шторкой дашборда
+st2:fermat,web,approaches,reserve,3.5,7,"пилюли-радио Before / With FERMAT, приглушённая колонка «до», капс-подписи графиков; серифный H2"
+drb:utility-grid,concept,slider,reserve,3.5,7,"шторка по карточке «счёт ↔ дашборд», фиолетовая ручка; капс-гротеск 800, 3D-пятна"
+drb:healthspark,concept,-,no,2.5,4,презентационный борд
+drb:aivora,concept,-,no,2.5,4,"борд с дугой-стрелкой, градиент"
+drb:duolingo,concept,-,no,2,3,"мобильное приложение, маскот"
+drb:loop,concept,side-by-side,reserve,3.5,6,стопка «BEFORE/AFTER» чипов + подзаголовок-диагноз над кадром в рамке браузера; моно во «после»
+drb:help-center,concept,-,no,2,3,"рукописное, градиент"
+drb:hero-a-or-b,concept,-,no,2,3,"антиква, градиент"
+drb:kohorta,concept,-,no,1.5,2,иллюстрации-человечки
+drb:atono,concept,-,no,2.5,4,"курсивная антиква, борд"
+drb:startup,concept,-,no,2.5,4,борд
+drb:plus-ultra,concept,-,no,1.5,2,"декор, рукописное"
+drb:oana,concept,-,no,2,3,рукописное
+fw2:fintechx,web,toggle,reserve,3.5,8,"ручка-переключатель Before/After над карточкой, «до» светлое приглушённое → «после» тёмное с метриками 3X/24/7; хромированная скевоморфная ручка"
+fw2:loamra,web,slider,reserve,3.5,9,"шторка по бар-чарту «оценка ↔ факт», H2 слева + абзац справа, крупные цифры 26,300 t → 21,400 t; моношрифт в подписях"
+fw2:mesa,web,timeline,YES,4.5,9,"две колонки-хроники Before: by hand / After: with Mesa, строки-волоски «время / событие», итоговая цифра 77 minutes (приглушённая) vs 1 min 55 s (яркая)"
+fw2:aiveloft,web,side-by-side,YES,4,9,"eyebrow-точка, H2 слева + абзац справа, склеенная панель Before/After автоматизации с пронумерованными строками, итоговая плашка, вкладки 01–04 снизу"
+fw2:tessvik,web,scroll,YES,4,9,"смена при прокрутке: «до» (5-шаговый чекаут) → «после» (одностраничный), слева кадр в рамке браузера, справа «01 · The problem → 03 · The result», метрика 3.1% → 4.6% и график, прогресс-полоски"
+fw2:loupe,web,slider,YES,4,8,"шторка во всю ширину 16px, пилюли-бейджи WIREFRAME/FINAL, круглая ручка, H2 крупный строчный"
+fw2:obsidio,web,slider,reserve,3.5,7,"eyebrow, H2 слева + абзац справа, шторка с бейджами CONCEPT/LAUNCH; широкий дисплейный шрифт"
+fw2:syntiq,web,bento-pairs,YES,4,9,"eyebrow-чип, центр. H2 с приглушённой частью, бенто: большая ячейка «Before/After» (разрозненные чипы → собранные), рядом ячейки-метрики 4–8 weeks, пунктирные разделители; моно в чипах"
+fw2:zenon,web,case-metrics,YES,4.5,10,"eyebrow, H2 слева + абзац справа, склеенная тройка карточек: фото-кейс / кривая удержания Raw vs Edit / 81% и полосы BEFORE 38% → AFTER 81%"
+fw2:stackwise,web,case-metrics,YES,4,9,"табы-чипы кейсов 01–04, бенто: фото кейса + Challenge/BEFORE + Impact/AFTER 62% (акцентный %) + отзыв; моно в капс-метках"
+fw2:primenorra,web,-,no,2,3,"капс-H2, две плашки текста"
+fw2:strategic,web,case-metrics,reserve,3.5,8,"сетка карточек BEFORE 500 → AFTER 12k+ с круглой стрелкой, график, метрика +120%; иконки в кругах, синие градиентные графики"
+fw2:clipse,web,-,no,3,5,до/после в одной ячейке
+fw2:wealthora,web,case-metrics,maybe,4,8,"карусель карточек CASE 01–04: график BEFORE vs WITH A PLAN, три пронумерованные строки, итог акцентом, пилюля READ THE CASE ↗; моно"
+fw2:automateo,web,approaches,reserve,3.5,6,сегмент-плашка Before / VS / After над двумя белыми карточками
+fw2:baton,web,approaches,YES,4,8,"eyebrow-чип, H2 (серифный) с приглушённой второй строкой, карточки Without (серая, пунктир) / With (белая, акцентная рамка), иконки ✕/✓ в квадратах 32px, строки-волоски"
+fw2:funnelforge,web,approaches,maybe,4,9,"eyebrow-чип Before / After, центр. H2, две карточки (after с тёплым свечением и акцентной рамкой), ряд из 3 метрик 2× / 40+ / 30D"
+fw2:neuron,web,approaches,reserve,3.5,7,"eyebrow с чертой, серифный H2, склеенная пара белая/чёрная, строки с тире"
+fw2:kresna,web,approaches,reserve,3,6,"смена карточки при прокрутке, 3D-иконка, рукописные надстрочники"
+gal2:whalesync,web,approaches,no,3,5,"моно, техно-сетка"
+gal2:orchestra,web,approaches,no,3,5,"бедно, пустые превью"
+gal2:glow,web,approaches,reserve,3.5,6,"две карточки With/Without, акцентная шапка; тонко, но плоско"
+gal2:supertoons,web,side-by-side,no,2,3,"фото → мультик, эмодзи"
+gal2:eigenpal,web,side-by-side,reserve,3.5,7,"склеенная таблица двух колонок с номерами, плашки итогов 2–4 weeks / 5 minutes; моно, красный/зелёный"
+gal2:submagic,web,bento-pairs,reserve,3,6,в бенто одна карточка с парой Before/After
+gal2:uplift-founders,web,toggle,no,2.5,5,"капс 800 гигантский, рукописная стрелка"
+gal2:get-structure,web,table,no,3,5,плотная таблица
+gal2:bonsai,web,-,no,2,3,иллюстрации
+gal2:memsql,web,-,no,2,3,схема
+gal2:arc,web,-,no,1.5,2,человечки
+gal2:conversionskit,web,-,no,1.5,2,клипарт
+gal2:contractbook,web,approaches,no,2.5,4,рукописные иллюстрации
+gal2:decipad,web,side-by-side,reserve,3,6,"две карточки spreadsheet vs doc, лаймовая рамка у «после»; эмодзи"
+gal2:cake-equity,web,-,no,1.5,2,"эмодзи, тени"
+gh:depict,referest,side-by-side,YES,4,8,"H2 с приглушённой второй частью, абзац слева + ссылка-стрелка справа, два кадра витрины 12px, маленькие пилюли BEFORE/AFTER, круглая акцентная кнопка между кадрами"
+gh:artalekseev,referest,slider,no,2.5,4,"фото интерьеров, капс-плашки"
+gh:ia-writer,referest,slider,reserve,3.5,7,"шторка Word ↔ iA Writer в окне, две колонки текста под кадром; моно, сравнение подходов"
+gh:nolim,referest,-,no,2.5,4,"мини-график в карточке, неон"
+gh:waveagency-smm,referest,table,no,2,3,поп-ап кейса
+gh:waveagency-artlife,referest,side-by-side,no,2,3,фото в поп-апе
+gh:surinderthakur,referest,slider,reserve,3.5,7,"пилюли OLD/NEW DESIGN на кадре, кастомная стеклянная ручка, UX-редизайн страницы"
+gh:lucversleijen,referest,slider,no,2,3,голый twentytwenty
+gh:osmo,web,slider,no,3,5,"товар-компонент, не блок сайта"
